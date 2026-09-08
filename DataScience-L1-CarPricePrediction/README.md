@@ -1,18 +1,12 @@
-# Used Car Price Prediction
+# Car Price Prediction with Machine Learning
 
-## Objective
-Build regression models that predict selling price from vehicle age, mileage, fuel type, transmission, and brand-related features.
-
-## Dataset
-Dataset source is documented in the notebook; place the downloaded Cardekho CSV at data/car_details.csv before running.
-
-## Skills demonstrated
-Cleaning, feature engineering, encoding, regression comparison, MAE/RMSE/R2, interpretability
+This is an Oasis Infobyte Data Science internship task. The notebook implements the official objective, required EDA, visualisations, modelling, metrics, interpretation, and commented code.
 
 ## Run
-```bash
-pip install -r requirements.txt
-jupyter notebook DataScience-L1-CarPricePrediction.ipynb
-```
+From the repository root, install `requirements.txt`, launch Jupyter, open this folder's notebook, and choose **Kernel → Restart & Run All**.
 
-This project is part of the **OIBSIP Data Science portfolio**.
+## Demo recording
+Begin with a 2-second title card showing: **Esraa Mahmoud Mohamed Asker — Data Science — Car Price Prediction with Machine Learning**. Then demonstrate the notebook end-to-end: dataset shape and quality checks, visual evidence, model training, evaluation, and the final interpretation.
+
+## Submission folder
+This folder follows the required format: `OIBSIP/DataScience-L1-[ProjectName]/`.

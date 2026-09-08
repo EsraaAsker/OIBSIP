@@ -1,18 +1,12 @@
-# SMS Spam Detection
+# Email Spam Detection with Machine Learning
 
-## Objective
-Classify SMS messages as spam or ham using TF-IDF and two complementary classifiers.
-
-## Dataset
-UCI SMS Spam Collection mirror: https://raw.githubusercontent.com/justmarkham/DAT8/master/data/sms.tsv
-
-## Skills demonstrated
-Text cleaning, TF-IDF explanation, stratified split, Naive Bayes and Logistic Regression, precision/recall/F1/confusion matrices
+This is an Oasis Infobyte Data Science internship task. The notebook implements the official objective, required EDA, visualisations, modelling, metrics, interpretation, and commented code.
 
 ## Run
-```bash
-pip install -r requirements.txt
-jupyter notebook DataScience-L1-SpamDetection.ipynb
-```
+From the repository root, install `requirements.txt`, launch Jupyter, open this folder's notebook, and choose **Kernel → Restart & Run All**.
 
-This project is part of the **OIBSIP Data Science portfolio**.
+## Demo recording
+Begin with a 2-second title card showing: **Esraa Mahmoud Mohamed Asker — Data Science — Email Spam Detection with Machine Learning**. Then demonstrate the notebook end-to-end: dataset shape and quality checks, visual evidence, model training, evaluation, and the final interpretation.
+
+## Submission folder
+This folder follows the required format: `OIBSIP/DataScience-L1-[ProjectName]/`.

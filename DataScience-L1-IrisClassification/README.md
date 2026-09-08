@@ -1,18 +1,12 @@
 # Iris Flower Classification
 
-## Objective
-Classify Setosa, Versicolor, and Virginica from sepal and petal measurements using multiple supervised models.
-
-## Dataset
-Built-in scikit-learn Iris dataset; no external download required.
-
-## Skills demonstrated
-EDA, pairplot, boxplots, stratified split, two classifiers, metrics, confusion matrices, model selection
+This is an Oasis Infobyte Data Science internship task. The notebook implements the official objective, required EDA, visualisations, modelling, metrics, interpretation, and commented code.
 
 ## Run
-```bash
-pip install -r requirements.txt
-jupyter notebook DataScience-L1-IrisClassification.ipynb
-```
+From the repository root, install `requirements.txt`, launch Jupyter, open this folder's notebook, and choose **Kernel → Restart & Run All**.
 
-This project is part of the **OIBSIP Data Science portfolio**.
+## Demo recording
+Begin with a 2-second title card showing: **Esraa Mahmoud Mohamed Asker — Data Science — Iris Flower Classification**. Then demonstrate the notebook end-to-end: dataset shape and quality checks, visual evidence, model training, evaluation, and the final interpretation.
+
+## Submission folder
+This folder follows the required format: `OIBSIP/DataScience-L1-[ProjectName]/`.
