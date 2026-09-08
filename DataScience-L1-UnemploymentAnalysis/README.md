@@ -1,18 +1,12 @@
-# Unemployment Analysis in India
+# Unemployment Analysis with Python
 
-## Objective
-Explore regional and temporal unemployment patterns and compare pre-COVID and post-COVID periods.
-
-## Dataset
-Public CSV source is documented in the notebook; if unavailable, the notebook explains the expected schema rather than fabricating values.
-
-## Skills demonstrated
-Data loading, null/type checks, regional averages, time series, top-10 chart, documented pre/post-COVID comparison
+This is an Oasis Infobyte Data Science internship task. The notebook implements the official objective, required EDA, visualisations, modelling, metrics, interpretation, and commented code.
 
 ## Run
-```bash
-pip install -r requirements.txt
-jupyter notebook DataScience-L1-UnemploymentAnalysis.ipynb
-```
+From the repository root, install `requirements.txt`, launch Jupyter, open this folder's notebook, and choose **Kernel → Restart & Run All**.
 
-This project is part of the **OIBSIP Data Science portfolio**.
+## Demo recording
+Begin with a 2-second title card showing: **Esraa Mahmoud Mohamed Asker — Data Science — Unemployment Analysis with Python**. Then demonstrate the notebook end-to-end: dataset shape and quality checks, visual evidence, model training, evaluation, and the final interpretation.
+
+## Submission folder
+This folder follows the required format: `OIBSIP/DataScience-L1-[ProjectName]/`.

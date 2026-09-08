@@ -1,18 +1,12 @@
-# Advertising Sales Prediction
+# Sales Prediction Using Python
 
-## Objective
-Predict product sales from TV, radio, and newspaper advertising spend and interpret channel impact.
-
-## Dataset
-Advertising.csv public mirror: https://raw.githubusercontent.com/selva86/datasets/master/Advertising.csv
-
-## Skills demonstrated
-EDA, pairplot, correlation heatmap, linear and ensemble regression, MAE/RMSE/R2, channel impact
+This is an Oasis Infobyte Data Science internship task. The notebook implements the official objective, required EDA, visualisations, modelling, metrics, interpretation, and commented code.
 
 ## Run
-```bash
-pip install -r requirements.txt
-jupyter notebook DataScience-L1-SalesPrediction.ipynb
-```
+From the repository root, install `requirements.txt`, launch Jupyter, open this folder's notebook, and choose **Kernel → Restart & Run All**.
 
-This project is part of the **OIBSIP Data Science portfolio**.
+## Demo recording
+Begin with a 2-second title card showing: **Esraa Mahmoud Mohamed Asker — Data Science — Sales Prediction Using Python**. Then demonstrate the notebook end-to-end: dataset shape and quality checks, visual evidence, model training, evaluation, and the final interpretation.
+
+## Submission folder
+This folder follows the required format: `OIBSIP/DataScience-L1-[ProjectName]/`.
